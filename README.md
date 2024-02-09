@@ -7,7 +7,11 @@ Here, we present the _dataset_ and _source code_ for all corruptions.
 ## Dataset: Kitti-Spoof
 You can download [Kitti-Spoof (click here)](https://drive.google.com/drive/folders/1lM__ssa1u_4X2D8tLoEHmxVQTytnwz1I?usp=sharing) from google drive.
 
+<<<<<<< HEAD
+The KITTI-Spoof dataset, which used in this paper, is generated based on KITTI training dataset. The corrupted dataset KITTI-Spoof features 5 types of LiDAR attacks and 6 types of camera attacks. Different from traditional benchmarks, we take the physical sensor attacks into consideration during the corruption construction.
+=======
 The Kitti-Spoof dataset, which used in this paper, is generated based on KITTI training dataset.
+>>>>>>> 0345a2aadddc486163c6c8b41038926701e8fa2d
 
 
 ## Source Code
@@ -58,3 +62,15 @@ def main():
    python Main.py
    ```
 
+<<<<<<< HEAD
+## Citation
+If you find this useful for your research, please use the following.
+
+```
+@InProceedings{Realease soon}
+```
+
+## Acknowledgments
+ - We acknowledge and appreciate the original authors for their support in open-sourcing the code. Acknowledge Chen Yan (yanchen@zju.edu.cn) for the _Laser_Color_Strip_Injection_; acknowledge Yushi Cheng (yushicheng@zju.edu.cn) for the _Ultrasound_Blur_; acknowledge Qinhong Jiang (qhjiang@zju.edu.cn) for the _EM_Truncation_ and _EM_Color_Strip_.
+=======
+>>>>>>> 0345a2aadddc486163c6c8b41038926701e8fa2d
