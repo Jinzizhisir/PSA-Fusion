@@ -58,6 +58,17 @@ def main():
    python Main.py
    ```
 
+## Appendix
+
+
+<center>Table. The Performance(AP) of 11 Detectors on Kitti and Kitti-Spoof </center>
+
+![alt](./AP_Table.png )
+
+<center>Figure. The Average Precision (AP) of each model under clean datasets and various corruptions, a higher AP indicates better model performance.</center>
+
+![alt](./AP_Figure.png 'Figure')
+
 ## Citation
 If you find this useful for your research, please use the following.
 
