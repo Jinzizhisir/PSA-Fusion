@@ -4,7 +4,7 @@
 
 ![alt text](./corruptions.png)
 
-Here, we present the _dataset_ and _source code_ for all corruptions. You can visit our [website](https://zjushine.github.io/PSA-Fusion/) for videos and
+Here, we present the _dataset_ and _source code_ for all corruptions. You can visit our [website](https://zjushine.github.io/PSA-Fusion/) for videos and the manuscript.
 
 ## Dataset: Kitti-Spoof
 You can download [Kitti-Spoof (click here)](https://drive.google.com/drive/folders/1lM__ssa1u_4X2D8tLoEHmxVQTytnwz1I?usp=sharing) from google drive.
