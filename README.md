@@ -7,7 +7,7 @@
 Here, we present the _dataset_ and _source code_ for all corruptions. You can visit our [website](https://zjushine.github.io/PSA-Fusion/) for videos and the manuscript.
 
 ## Dataset: Kitti-Spoof
-You can download [Kitti-Spoof (click here)](https://drive.google.com/drive/folders/1lM__ssa1u_4X2D8tLoEHmxVQTytnwz1I?usp=sharing) from google drive.
+You can download [Kitti-Spoof (click here)](https://1drv.ms/f/c/2371ae13d8c5982e/EgWn73SFnTFCnsmEyxRk0dIBHRLoyzzkjJ1Fmp3dt_4HpQ?e=UZX7s4) from google drive.
 
 The KITTI-Spoof dataset, which used in this paper, is generated based on KITTI training dataset. The corrupted dataset KITTI-Spoof features 5 types of LiDAR attacks and 6 types of camera attacks. Different from traditional benchmarks, we take the physical sensor attacks into consideration during the corruption construction.
 
@@ -75,7 +75,13 @@ def main():
 If you find this useful for your research, please use the following.
 
 ```
-@InProceedings{Realease soon}
+@inproceedings{jin2024unity,
+  title={Unity is Strength? Benchmarking the Robustness of Fusion-based 3D Object Detection against Physical Sensor Attack},
+  author={Jin, Zizhi and Lu, Xuancun and Yang, Bo and Cheng, Yushi and Yan, Chen and Ji, Xiaoyu and Xu, Wenyuan},
+  booktitle={Proceedings of the ACM on Web Conference 2024},
+  pages={3031--3042},
+  year={2024}
+}
 ```
 
 ## Acknowledgments
